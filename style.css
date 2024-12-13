@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+   
+}
+
+header {
+    height: 200px;
+    background-color: rgb(113, 190, 143);
+}
+   
+ .navbar .active{
+    background-color: cadetblue;
+ }   
+
+#wrapper {
+    display:flex;
+    background-color:  rgb(175, 228, 171);
+}
+
+main {
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(175, 228, 171);
+}
+
+aside {
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgb(100, 237, 123);
+
+}
+.button{
+    border-radius: 25%;
+    position: middle;
+}
+.padding{
+    background-color: black;
+    
+}
